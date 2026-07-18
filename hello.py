@@ -30,4 +30,9 @@ city = input("enter your city")#
 print("you are for", city)#
 print("today i learned about input function in python")
 print("i will keep learning python programe")
+age = input("Enter your age: ")
+print(age)
+print(type(age))
+
+
 
